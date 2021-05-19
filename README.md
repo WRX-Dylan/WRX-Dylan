@@ -1,5 +1,5 @@
-### Hi there 👋
-Computer Science student at East Tennessee State Univeristy
+### Welcome to my GitHub 👋
+Computing student at East Tennessee State Univeristy, concentration in Information Technology.
 ## Interests include:
 * Cyber security
 * Automation
