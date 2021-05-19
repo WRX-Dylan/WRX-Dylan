@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+Computer Science student at East Tennessee State Univeristy
+## Interests include:
+* Cyber security
+* Automation
+* Backend Development
 <!--
 **WRX-Dylan/WRX-Dylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
