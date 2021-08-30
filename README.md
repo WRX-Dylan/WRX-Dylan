@@ -2,6 +2,7 @@
 Computing student at East Tennessee State Univeristy, concentration in Information Technology.
 ## Interests include:
 * Cyber security
+* Data Analytics and Visualization
 * Automation
 * Backend Development
 <!--
