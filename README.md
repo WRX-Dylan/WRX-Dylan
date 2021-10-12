@@ -4,7 +4,11 @@ Computing student at East Tennessee State Univeristy, concentration in Informati
 * Cyber security
 * Data Analytics and Visualization
 * Automation
-* Backend Development
+* Database Administration
+* Software Development
+
+## About me:
+My name is Dylan and I am a computing major with an IT concentration at ETSU. I have been into computers since I was a kid and wanted to make a career out of it since I was in middle school. My interest started with video game development, but has shifted over time to a more general interest. Specifically, cyber security and data analytics are my favorite parts of computer science. Outside of that, I am a huge car enthusiast. I currently own a 2011 Subaru WRX hatchback, and daily drive a 2011 BMW 328i (both of which are manual transmissions). Lastly, I love where I live, which is East Tennessee. I love the Appalachian region and the rest of Tennessee as a whole. I was never big into cities until I visited Nashville, which I quickly fell in love with thanks to being such a huge hockey fan. I love the Nashville Predators and Pittsburgh Penguins. Outside of that, I am just a regular guy who loves to cook and spend time with friends and family. Thanks for stopping by and checking out my page!
 <!--
 **WRX-Dylan/WRX-Dylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
